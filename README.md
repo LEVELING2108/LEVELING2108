@@ -31,10 +31,10 @@
 
 #### 📚 Currently Learning
 
-> - 🔥 AI/ML Integration in Web Apps
-> - ⚡ Edge Computing & Serverless Architecture
-> - 🎨 3D Web Experiences with Three.js
-> - 🔒 Security: OAuth 2.0, JWT, Zero Trust Architecture
+> - ☕ **Java Full Stack** — Spring Boot, Hibernate, Microservices Architecture
+> - 🧠 **DSA** — Arrays, Trees, Graphs, DP, System Design Patterns
+> - 🤖 **AI/ML** — LLMs, RAG Pipelines, Model Deployment & Optimization
+> - ⚡ **Cloud Native** — Docker, Kubernetes, CI/CD Pipelines, AWS Services
 
 ---
 
