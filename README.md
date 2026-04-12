@@ -99,7 +99,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LEVELING2108&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LEVELING2108&show_icons=true&theme=dracula&hide=issues&count_private=true"/>
 </div>
 
 ---
