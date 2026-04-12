@@ -13,22 +13,6 @@
 
 ---
 
-#### 🛠️ Skills & Expertise
-
-> **💻 Languages:** Python · JavaScript · TypeScript · Java · C++
->
-> **⚛️ Frontend:** React · Next.js · Vue.js · React Native · TailwindCSS
->
-> **🔧 Backend:** Node.js · Express · Django · FastAPI · Spring Boot
->
-> **🗄️ Database:** PostgreSQL · MongoDB · Firebase · MySQL · Redis
->
-> **☁️ Cloud/DevOps:** AWS · Docker · Git · CI/CD · Vercel · Netlify
->
-> **🤖 AI/ML:** TensorFlow · PyTorch · Scikit-learn · OpenCV
-
----
-
 #### 📚 Currently Learning
 
 > - ☕ **Java Full Stack** — Spring Boot, Hibernate, Microservices Architecture
@@ -77,9 +61,14 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
 
 #### 🤖 AI/ML & Emerging Tech
