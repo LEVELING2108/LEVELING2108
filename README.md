@@ -102,6 +102,20 @@
 
 ---
 
+### 💻 LeetCode Progress
+
+<div align="center">
+  <a href="https://leetcode.com/sumansourav2108/">
+    <img src="https://leetcard.jacoblin.cool/sumansourav2108?theme=dark&font=Baloo%20Bhaina%202&ext=heatmap&width=450&height=200" alt="LeetCode Stats"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/sumansourav2108?theme=dark&font=Baloo%20Bhaina%202&ext=contest&width=450&height=200" alt="LeetCode Contests"/>
+</div>
+
+---
+
 ### 🔥 Trending & Current Focus
 
 <div align="center">
