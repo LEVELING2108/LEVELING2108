@@ -106,12 +106,8 @@
 
 <div align="center">
   <a href="https://leetcode.com/sumansourav2108/">
-    <img src="https://leetcard.jacoblin.cool/sumansourav2108?theme=dark&font=Baloo%20Bhaina%202&ext=heatmap" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/sumansourav2108?theme=dark&font=Baloo%20Bhaina%202&ext=contest" alt="LeetCode Stats"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/sumansourav2108?theme=dark&font=Baloo%20Bhaina%202&ext=contest" alt="LeetCode Contests"/>
 </div>
 
 ---
