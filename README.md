@@ -89,15 +89,35 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Featured Projects
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LEVELING2108&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVELING2108&layout=compact&langs_count=8&theme=radical"/>
+
+| 🚀 [Project 1](https://github.com/LEVELING2108/your-repo) | 🌐 [Project 2](https://github.com/LEVELING2108/your-repo) | 🛠️ [Project 3](https://github.com/LEVELING2108/your-repo) |
+|:---:|:---:|:---:|
+| 📝 Brief description of your best project with key features | 📝 Another cool project showcasing different skills | 📝 Third project highlighting unique tech stack |
+| `React` `Node.js` `MongoDB` | `Python` `Django` `PostgreSQL` | `Java` `Spring Boot` `AWS` |
+
+| ⚡ [Project 4](https://github.com/LEVELING2108/your-repo) | 🎯 [Project 5](https://github.com/LEVELING2108/your-repo) | 🔥 [Project 6](https://github.com/LEVELING2108/your-repo) |
+|:---:|:---:|:---:|
+| 📝 Description of project focusing on performance | 📝 Project demonstrating DSA or algorithms | 📝 AI/ML project with model deployment |
+| `Next.js` `Tailwind` `Vercel` | `C++` `Algorithms` `Optimization` | `TensorFlow` `Python` `FastAPI` |
+
+</div>
+
+> 💡 **Tip:** Replace the placeholder links and descriptions with your actual repositories!
+
+---
+
+### 📊 GitHub Stats
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LEVELING2108&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVELING2108&layout=compact&langs_count=8&theme=radical" style="max-width: 100%;"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LEVELING2108&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LEVELING2108&theme=radical" style="max-width: 100%;"/>
 </div>
 
 ---
