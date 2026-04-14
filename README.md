@@ -93,10 +93,10 @@
 
 <div align="center">
 
-| 🚀 [SIH_Project-Railtrack_PRO-](https://github.com/LEVELING2108/SIH_Project-Railtrack_PRO-) | 🌐 [Project 2](https://github.com/LEVELING2108/your-repo) | 🛠️ [Project 3](https://github.com/LEVELING2108/your-repo) |
+| 🚀 [SIH_Project-Railtrack_PRO-](https://github.com/LEVELING2108/SIH_Project-Railtrack_PRO-) | 🌐 [GROCKY](https://github.com/LEVELING2108/GROCKY) | 🛠️ [Project 3](https://github.com/LEVELING2108/your-repo) |
 |:---:|:---:|:---:|
-| 📝 Smart railway track monitoring system using AI/ML for defect detection & predictive maintenance | 📝 Another cool project showcasing different skills | 📝 Third project highlighting unique tech stack |
-| `Python` `AI/ML` `Computer Vision` | `Python` `Django` `PostgreSQL` | `Java` `Spring Boot` `AWS` |
+| 📝 Smart railway track monitoring system using AI/ML for defect detection & predictive maintenance | 📝 AI-powered grocery e-commerce platform with personalized recommendations, real-time order tracking & Stripe checkout | 📝 Third project highlighting unique tech stack |
+| `Python` `AI/ML` `Computer Vision` | `Spring Boot` `React` `TypeScript` `PostgreSQL` `Docker` `Stripe` | `Java` `Spring Boot` `AWS` |
 
 | ⚡ [Project 4](https://github.com/LEVELING2108/your-repo) | 🎯 [Project 5](https://github.com/LEVELING2108/your-repo) | 🔥 [Project 6](https://github.com/LEVELING2108/your-repo) |
 |:---:|:---:|:---:|
