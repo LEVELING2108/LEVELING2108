@@ -138,7 +138,7 @@
 
 | 🎯 Area | Technologies |
 |---------|-------------|
-| 🤖 **AI Integration** | LangChain, LLM APIs, RAG Systems, Vector DBs |
+| 🤖 **AI Integration** | LangChain, LLM APIs, RAG Systems, Vector DBs, Vector Embedding |
 | ⚡ **Performance** | Edge Functions, Serverless, CDN Optimization |
 | 🎨 **3D Web** | Three.js, React Three Fiber, WebGL |
 | 🔒 **Security** | OAuth 2.0, JWT, Zero Trust Architecture |
