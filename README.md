@@ -113,7 +113,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LEVELING2108&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVELING2108&layout=compact&langs_count=8&theme=radical" style="max-width: 100%;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVELING2108&layout=compact&langs_count=8&theme=radical" style="max-width: 150%;"/>
 </div>
 
 <div align="center">
