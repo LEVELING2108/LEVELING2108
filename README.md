@@ -112,14 +112,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LEVELING2108&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVELING2108&layout=compact&langs_count=8&theme=radical" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LEVELING2108&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVELING2108&layout=compact&langs_count=8&theme=radical" />
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LEVELING2108&theme=radical" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=LEVELING2108&theme=radical" />
+</div>
 
 ---
 
@@ -152,9 +152,9 @@
 
 Currently working on exciting projects that combine cutting-edge technologies with real-world applications. Check out my repositories to see what's cooking! 🚀
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LEVELING2108&theme=react-dark&line=cc0000&point=ffffff&area=true&hide_border=false" alt="GitHub Activity Graph" />
-</p>
+</div>
 
 ---
 
@@ -174,9 +174,9 @@ Currently working on exciting projects that combine cutting-edge technologies wi
 
 ### 📈 Profile Views
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=LEVELING2108&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
+</div>
 
 ---
 
