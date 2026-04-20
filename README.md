@@ -168,9 +168,7 @@ Currently working on exciting projects that combine cutting-edge technologies wi
   <a href="https://www.linkedin.com/in/sourav-suman-325a46353" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://dev.to/24f3004824_souravsuman_7" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
+
 </div>
 
 ---
