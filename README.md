@@ -112,24 +112,24 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LEVELING2108&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVELING2108&layout=compact&langs_count=8&theme=radical" style="max-width: 100%;"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LEVELING2108&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVELING2108&layout=compact&langs_count=8&theme=radical" />
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LEVELING2108&theme=radical" style="max-width: 100%;"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LEVELING2108&theme=radical" />
+</p>
 
 ---
 
 ### 💻 LeetCode Progress
 
-<div align="center">
+<p align="center">
   <a href="https://leetcode.com/sumansourav2108/">
     <img src="https://leetcard.jacoblin.cool/sumansourav2108?theme=dark&font=Baloo%20Bhaina%202&ext=heatmap" alt="LeetCode Stats"/>
   </a>
-</div>
+</p>
 
 ---
 
@@ -152,11 +152,9 @@
 
 Currently working on exciting projects that combine cutting-edge technologies with real-world applications. Check out my repositories to see what's cooking! 🚀
 
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LEVELING2108&theme=react-dark&line=cc0000&point=ffffff&area=true&hide_border=false)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LEVELING2108&theme=react-dark&line=cc0000&point=ffffff&area=true&hide_border=false" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
@@ -176,9 +174,9 @@ Currently working on exciting projects that combine cutting-edge technologies wi
 
 ### 📈 Profile Views
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=LEVELING2108&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</div>
+</p>
 
 ---
 
