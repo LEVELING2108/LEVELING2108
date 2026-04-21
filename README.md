@@ -98,10 +98,10 @@
 | 📝 Smart railway track monitoring system using AI/ML for defect detection & predictive maintenance | 📝 AI-powered grocery e-commerce platform with personalized recommendations, real-time order tracking & Stripe checkout | 📝 Production-ready SaaS starter kit with auth, Stripe payments, user dashboards & email notifications |
 | `Python` `AI/ML` `Computer Vision` | `Spring Boot` `React` `TypeScript` `PostgreSQL` `Docker` `Stripe` | `Next.js` `FastAPI` `TypeScript` `PostgreSQL` `Stripe` `Docker` |
 
-| ⚡ [Project 4](https://github.com/LEVELING2108/your-repo) | 🎯 [Project 5](https://github.com/LEVELING2108/your-repo) | 🔥 [Project 6](https://github.com/LEVELING2108/your-repo) |
+| 📈 [Placement-Risk Modeling System](https://github.com/LEVELING2108/Placement-Risk-Modeling-System) | 🤖 [NLP-Text-Classification-MLOps](https://github.com/LEVELING2108/NLP-Text-Classification-MLOps) | 🎙️ [Voice Agent Architecture](https://github.com/LEVELING2108/VOICE_AGENT_APP_ARCHITECTURE-) |
 |:---:|:---:|:---:|
-| 📝 Description of project focusing on performance | 📝 Project demonstrating DSA or algorithms | 📝 AI/ML project with model deployment |
-| `Next.js` `Tailwind` `Vercel` | `C++` `Algorithms` `Optimization` | `TensorFlow` `Python` `FastAPI` |
+| 📝 AI-powered predictive engine assessing student employability risks & placement timelines for data-driven education loan decisions | 📝 End-to-end MLOps pipeline for NLP spam detection with automated training, experiment tracking, and real-time monitoring | 📝 Low-latency, scalable AI voice agent utilizing WebRTC and modular LLM/VAD integration for natural human-AI conversation |
+| `Python` `FastAPI` `Scikit-learn` `Gemini AI` `SQLite` | `Python` `MLflow` `FastAPI` `Docker` `Prometheus` `Grafana` | `Node.js` `LiveKit` `WebRTC` `Silero VAD` `Gemini AI` |
 
 
 </div>
