@@ -106,9 +106,6 @@
 
 </div>
 
-> 💡 **Tip:** Replace the placeholder links and descriptions with your actual repositories!
-
----
 
 ### 📊 GitHub Stats
 
