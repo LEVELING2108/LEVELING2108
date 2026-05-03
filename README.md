@@ -110,9 +110,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LEVELING2108&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVELING2108&layout=compact&langs_count=8&theme=radical&count_private=true" />
-  <br />
+  
   <img height="180" src="https://streak-stats.demolab.com/?user=LEVELING2108&theme=radical" />
 </div>
 
