@@ -9,7 +9,7 @@
 > **Name:** SOURAV SUMAN  
 > **Title:** Full Stack Developer  
 > **Location:** PUNE,India 🇮🇳  
-> **Pronouns:** He/Him  
+  
 
 ---
 
