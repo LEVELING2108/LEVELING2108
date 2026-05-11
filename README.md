@@ -8,7 +8,7 @@
 
 > **Name:** SOURAV SUMAN  
 > **Title:** Full Stack Developer  
-> **Location:** PUNE,India 🇮🇳  
+> **Location:** PUNE, India 🇮🇳  
   
 
 ---
@@ -93,12 +93,12 @@
 
 <div align="center">
 
-| 🚀 [SIH_Project-Railtrack_PRO-](https://github.com/LEVELING2108/SIH_Project-Railtrack_PRO-) | 🌐 [GROCKY](https://github.com/LEVELING2108/GROCKY) | 🛠️ [SaaSForge](https://github.com/LEVELING2108/SaaSForge) |
+| 🚀 [SIH Project: Railtrack PRO](https://github.com/LEVELING2108/SIH_Project-Railtrack_PRO-) | 🌐 [Grocky](https://github.com/LEVELING2108/GROCKY) | 🛠️ [SaaSForge](https://github.com/LEVELING2108/SaaSForge) |
 |:---:|:---:|:---:|
 | 📝 Smart railway track monitoring system using AI/ML for defect detection & predictive maintenance | 📝 AI-powered grocery e-commerce platform with personalized recommendations, real-time order tracking & Stripe checkout | 📝 Production-ready SaaS starter kit with auth, Stripe payments, user dashboards & email notifications |
 | `Python` `AI/ML` `Computer Vision` | `Spring Boot` `React` `TypeScript` `PostgreSQL` `Docker` `Stripe` | `Next.js` `FastAPI` `TypeScript` `PostgreSQL` `Stripe` `Docker` |
 
-| 📈 [Placement-Risk Modeling System](https://github.com/LEVELING2108/Placement-Risk-Modeling-System) | 🤖 [NLP-Text-Classification-MLOps](https://github.com/LEVELING2108/NLP-Text-Classification-MLOps) | 🎙️ [Voice Agent Architecture](https://github.com/LEVELING2108/VOICE_AGENT_APP_ARCHITECTURE-) |
+| 📈 [Placement-Risk Modeling System](https://github.com/LEVELING2108/Placement-Risk-Modeling-System) | 🤖 [NLP Text Classification MLOps](https://github.com/LEVELING2108/NLP-Text-Classification-MLOps) | 🎙️ [Voice Agent Architecture](https://github.com/LEVELING2108/VOICE_AGENT_APP_ARCHITECTURE-) |
 |:---:|:---:|:---:|
 | 📝 AI-powered predictive engine assessing student employability risks & placement timelines for data-driven education loan decisions | 📝 End-to-end MLOps pipeline for NLP spam detection with automated training, experiment tracking, and real-time monitoring | 📝 Low-latency, scalable AI voice agent utilizing WebRTC and modular LLM/VAD integration for natural human-AI conversation |
 | `Python` `FastAPI` `Scikit-learn` `Gemini AI` `SQLite` | `Python` `MLflow` `FastAPI` `Docker` `Prometheus` `Grafana` | `Node.js` `LiveKit` `WebRTC` `Silero VAD` `Gemini AI` |
@@ -110,7 +110,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVELING2108&layout=compact&theme=radical&hide_border=false" />
   <img height="180" src="https://streak-stats.demolab.com/?user=LEVELING2108&theme=radical" />
 </div>
 
@@ -132,7 +132,7 @@
 
 | 🎯 Area | Technologies |
 |---------|-------------|
-| 🤖 **AI Integration** | LangChain, LLM APIs, RAG Systems, Vector DBs, Vector Embedding |
+| 🤖 **AI Integration** | LangChain, LLM APIs, RAG Systems, Vector DBs, Vector Embeddings |
 | ⚡ **Performance** | Edge Functions, Serverless, CDN Optimization |
 | 🎨 **3D Web** | Three.js, React Three Fiber, WebGL |
 | 🔒 **Security** | OAuth 2.0, JWT, Zero Trust Architecture |
