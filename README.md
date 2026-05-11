@@ -114,11 +114,6 @@
   <img height="180" src="https://streak-stats.demolab.com/?user=LEVELING2108&theme=radical" />
 </div>
 
-<div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/LEVELING2108/LEVELING2108/main/profile-summary-card-output/radical/0-profile-details.svg" />
-  <img height="180" src="https://raw.githubusercontent.com/LEVELING2108/LEVELING2108/main/profile-summary-card-output/radical/2-most-commit-language.svg" />
-</div>
-
 ---
 
 ### 💻 LeetCode Progress
