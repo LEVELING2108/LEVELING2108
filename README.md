@@ -154,7 +154,7 @@ Currently working on exciting projects that combine cutting-edge technologies wi
 ### ⚡ Latest Activity
 
 <!--START_SECTION:activity-->
-*Stay tuned for my latest commits and contributions!*
+1. 🎉 Merged PR [#7](https://github.com/LEVELING2108/BINANACE_TRADE_BOT/pull/7) in [LEVELING2108/BINANACE_TRADE_BOT](https://github.com/LEVELING2108/BINANACE_TRADE_BOT)
 <!--END_SECTION:activity-->
 
 ---
