@@ -153,9 +153,9 @@ Currently working on exciting projects that combine cutting-edge technologies wi
 
 ### ⚡ Latest Activity
 
-<!-- START_SECTION:activity -->
+<!--START_SECTION:activity-->
 *Stay tuned for my latest commits and contributions!*
-<!-- END_SECTION:activity -->
+<!--END_SECTION:activity-->
 
 ---
 
