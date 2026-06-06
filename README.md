@@ -4,15 +4,6 @@
 </p>
 
 ---
-### 👨‍💻 About Me
-
-> **Name:** SOURAV SUMAN  
-> **Title:** Full Stack Developer  
-> **Location:** PUNE, India 🇮🇳  
-  
-
----
-
 #### 📚 Currently Learning
 
 > - ☕ **Java Full Stack** — Spring Boot, Hibernate, Microservices Architecture
