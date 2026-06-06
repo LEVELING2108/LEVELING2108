@@ -96,12 +96,12 @@
 | 🚀 [SIH Project: Railtrack PRO](https://github.com/LEVELING2108/SIH_Project-Railtrack_PRO-) | 🌐 [Grocky](https://github.com/LEVELING2108/GROCKY) | 🛠️ [SaaSForge](https://github.com/LEVELING2108/SaaSForge) |
 |:---:|:---:|:---:|
 | 📝 Smart railway track monitoring system using AI/ML for defect detection & predictive maintenance | 📝 AI-powered grocery e-commerce platform with personalized recommendations, real-time order tracking & Stripe checkout | 📝 Production-ready SaaS starter kit with auth, Stripe payments, user dashboards & email notifications |
-| `Python` `AI/ML` `Computer Vision` | `Spring Boot` `React` `TypeScript` `PostgreSQL` `Docker` `Stripe` | `Next.js` `FastAPI` `TypeScript` `PostgreSQL` `Stripe` `Docker` |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" /> |
 
 | 📈 [Placement-Risk Modeling System](https://github.com/LEVELING2108/Placement-Risk-Modeling-System) | 🤖 [NLP Text Classification MLOps](https://github.com/LEVELING2108/NLP-Text-Classification-MLOps) | 🎙️ [Voice Agent Architecture](https://github.com/LEVELING2108/VOICE_AGENT_APP_ARCHITECTURE-) |
 |:---:|:---:|:---:|
 | 📝 AI-powered predictive engine assessing student employability risks & placement timelines for data-driven education loan decisions | 📝 End-to-end MLOps pipeline for NLP spam detection with automated training, experiment tracking, and real-time monitoring | 📝 Low-latency, scalable AI voice agent utilizing WebRTC and modular LLM/VAD integration for natural human-AI conversation |
-| `Python` `FastAPI` `Scikit-learn` `Gemini AI` `SQLite` | `Python` `MLflow` `FastAPI` `Docker` `Prometheus` `Grafana` | `Node.js` `LiveKit` `WebRTC` `Silero VAD` `Gemini AI` |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" /> |
 
 
 </div>
@@ -111,6 +111,7 @@
 
 <div align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=LEVELING2108&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVELING2108&layout=compact&theme=radical&hide_border=false" />
 </div>
 
 ---
@@ -147,6 +148,14 @@ Currently working on exciting projects that combine cutting-edge technologies wi
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LEVELING2108&theme=react-dark&line=cc0000&point=ffffff&area=true&hide_border=false" alt="GitHub Activity Graph" />
 </div>
+
+---
+
+### ⚡ Latest Activity
+
+<!-- START_SECTION:activity -->
+*Stay tuned for my latest commits and contributions!*
+<!-- END_SECTION:activity -->
 
 ---
 

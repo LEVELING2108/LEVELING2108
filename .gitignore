@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS junk
+Thumbs.db
+.DS_Store
