@@ -1,9 +1,9 @@
-### Hi there 👋 I'm SOURAV SUMAN
-
-### 🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=SOURAV+SUMAN&center=true&vCenter=true" alt="SOURAV" /></a>
+  <a href="https://github.com/LEVELING2108/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI%2FML%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 ---
-
 ### 👨‍💻 About Me
 
 > **Name:** SOURAV SUMAN  
@@ -109,11 +109,20 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LEVELING2108&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="General Stats" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=LEVELING2108&theme=radical" alt="GitHub Streak" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=LEVELING2108&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LEVELING2108?tab=repositories">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=LEVELING2108&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="180" alt="General Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LEVELING2108?tab=stars">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=LEVELING2108&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
