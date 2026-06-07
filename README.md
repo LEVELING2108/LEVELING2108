@@ -153,6 +153,13 @@ Currently working on exciting projects that combine cutting-edge technologies wi
 
 ---
 
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 📫 Connect With Me
 
 <div align="center">
