@@ -79,7 +79,15 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 </p>
 
+#### ⚡ Combined Interactive Skill Icons (Alternative)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,next,vue,html,css,nodejs,express,django,fastapi,spring,postgres,mongodb,mysql,redis,firebase,aws,docker,git,githubactions,tensorflow,pytorch,opencv,pandas,numpy,sklearn&perline=10&theme=dark" alt="My Skills" />
+  </a>
+</p>
+
 ---
+
 
 
 ### 📊 GitHub Stats
@@ -98,6 +106,31 @@
     </td>
   </tr>
 </table>
+
+#### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-readme-trophy.vercel.app/?username=LEVELING2108&theme=gotham&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Github Trophies" />
+  </a>
+</div>
+
+#### 📅 GitHub 3D Contribution Calendar
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg" />
+    <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="85%" />
+  </picture>
+</div>
+
+#### 🐍 Contribution Snake Game
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LEVELING2108/LEVELING2108/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LEVELING2108/LEVELING2108/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/LEVELING2108/LEVELING2108/output/github-contribution-grid-snake.svg" alt="Snake Game Contribution Graph" />
+  </picture>
+</div>
 
 ---
 
