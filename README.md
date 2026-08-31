@@ -7,9 +7,11 @@
 #### 📚 Currently Learning
 
 > - ☕ **Java Full Stack** — Spring Boot, Hibernate, Microservices Architecture
-> - 🧠 **DSA** — Arrays, Trees, Graphs, DP, System Design Patterns
-> - 🤖 **AI/ML** — LLMs, RAG Pipelines, Model Deployment & Optimization
-> - ⚡ **Cloud Native** — Docker, Kubernetes, CI/CD Pipelines, AWS Services
+> - 🧠 **DSA & System Design** — Arrays, Trees, Graphs, DP, Scalable Architectures
+> - 🤖 **AI/ML & LLMs** — LLMs, RAG Pipelines, LangChain, Vector DBs & Embeddings
+> - ⚡ **Cloud Native & Performance** — Docker, Kubernetes, AWS, Serverless, Edge Functions
+> - 🎨 **3D Web** — Three.js, React Three Fiber, WebGL
+> - 🔒 **Security** — OAuth 2.0, JWT, Zero Trust Architecture
 
 ---
 
@@ -107,20 +109,6 @@
 
 ---
 
-### 🔥 Trending & Current Focus
-
-<div align="center">
-
-| 🎯 Area | Technologies |
-|---------|-------------|
-| 🤖 **AI Integration** | LangChain, LLM APIs, RAG Systems, Vector DBs, Vector Embeddings |
-| ⚡ **Performance** | Edge Functions, Serverless, CDN Optimization |
-| 🎨 **3D Web** | Three.js, React Three Fiber, WebGL |
-| 🔒 **Security** | OAuth 2.0, JWT, Zero Trust Architecture |
-
-</div>
-
----
 
 ### 💡 What I'm Building
 
