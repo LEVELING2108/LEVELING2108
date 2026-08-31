@@ -130,9 +130,9 @@ Currently working on exciting projects that combine cutting-edge technologies wi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-green-animate.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg" />
-    <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="85%" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-night-green.svg" />
+    <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="85%" />
   </picture>
 </div>
 
