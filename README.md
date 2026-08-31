@@ -136,12 +136,6 @@ Currently working on exciting projects that combine cutting-edge technologies wi
   </picture>
 </div>
 
----
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
