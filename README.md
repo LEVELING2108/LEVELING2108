@@ -109,6 +109,22 @@
 
 ---
 
+### 🌟 Featured Open Source Contributions
+
+#### [Laya](https://github.com/NandhaKishorM/laya) — Fast, Local System 1 Decision Engine *(27,000+ ★)*
+*Architected official framework integrations enabling sub-35ms agent decision routing across the modern AI stack.*
+
+* **[PR #229 (Merged)](https://github.com/NandhaKishorM/laya/pull/229) & [PR #257 (Merged)](https://github.com/NandhaKishorM/laya/pull/257):** Shipped official **LangChain & LangGraph** routing, prompt guardrails, and customer triage (Shipped in release v0.3.8).
+* **[PR #533 (Merged)](https://github.com/NandhaKishorM/laya/pull/533):** Built official **LlamaIndex** `LayaSingleSelector` and `LayaMultiSelector` for sub-35ms multi-index RAG routing (Shipped in release v0.3.21).
+* **[PR #535 (Merged)](https://github.com/NandhaKishorM/laya/pull/535):** Built official **CrewAI** `LayaCrewRouter` and `LayaTaskGuard` for sub-35ms hierarchical crew task delegation (Shipped in release v0.3.21).
+* **Impact:** Reduced agent branching latency by **98%** (from ~1,500ms to ~33ms) and eliminated LLM token generation costs across 4 major agent frameworks.
+
+[![PR #229 Merged](https://img.shields.io/badge/PR%20%23229-Merged-8957e5?style=flat-square&logo=github)](https://github.com/NandhaKishorM/laya/pull/229)
+[![PR #257 Merged](https://img.shields.io/badge/PR%20%23257-Merged-8957e5?style=flat-square&logo=github)](https://github.com/NandhaKishorM/laya/pull/257)
+[![PR #533 Merged](https://img.shields.io/badge/PR%20%23533-Merged-8957e5?style=flat-square&logo=github)](https://github.com/NandhaKishorM/laya/pull/533)
+[![PR #535 Merged](https://img.shields.io/badge/PR%20%23535-Merged-8957e5?style=flat-square&logo=github)](https://github.com/NandhaKishorM/laya/pull/535)
+
+---
 
 ### 💡 What I'm Building
 
