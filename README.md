@@ -111,18 +111,24 @@
 
 ### 🌟 Featured Open Source Contributions
 
-#### [Laya](https://github.com/NandhaKishorM/laya) — Fast, Local System 1 Decision Engine *(27,000+ ★)*
-*Architected official framework integrations enabling sub-35ms agent decision routing across the modern AI stack.*
+#### [Laya](https://github.com/NandhaKishorM/laya) — Fast, Local System 1 Decision Engine *(33,900+ ★)*
+*Architected official framework integrations, tool routing, and cross-platform SDK reliability enabling sub-35ms agent decision routing across the modern AI stack.*
 
 * **[PR #229 (Merged)](https://github.com/NandhaKishorM/laya/pull/229) & [PR #257 (Merged)](https://github.com/NandhaKishorM/laya/pull/257):** Shipped official **LangChain & LangGraph** routing, prompt guardrails, and customer triage (Shipped in release v0.3.8).
 * **[PR #533 (Merged)](https://github.com/NandhaKishorM/laya/pull/533):** Built official **LlamaIndex** `LayaSingleSelector` and `LayaMultiSelector` for sub-35ms multi-index RAG routing (Shipped in release v0.3.21).
 * **[PR #535 (Merged)](https://github.com/NandhaKishorM/laya/pull/535):** Built official **CrewAI** `LayaCrewRouter` and `LayaTaskGuard` for sub-35ms hierarchical crew task delegation (Shipped in release v0.3.21).
-* **Impact:** Reduced agent branching latency by **98%** (from ~1,500ms to ~33ms) and eliminated LLM token generation costs across 4 major agent frameworks.
+* **[PR #977 (Merged)](https://github.com/NandhaKishorM/laya/pull/977):** Built official **`LayaToolSelector`** (`laya.integrations.tools`) for non-autoregressive tool & function routing across Python callables, LangChain, CrewAI, LlamaIndex, and JSON schemas with confidence gating (Shipped in release v0.4.11).
+* **[PR #1020 (Merged)](https://github.com/NandhaKishorM/laya/pull/1020):** Resolved a concurrency race condition in the **.NET SDK** (`HfTokenizer.EnsureStrippedTokenizer`) via lock synchronization and atomic temp-file writes during parallel execution (Shipped in release v0.4.1).
+* **[PR #737 (Merged)](https://github.com/NandhaKishorM/laya/pull/737):** Fixed Windows CI path normalization in `test_env_docs.py` for cross-platform test suite reliability (Shipped in release v0.3.23).
+* **Impact:** Reduced agent branching and tool dispatch latency by **98%** (from ~1,500–2,500ms to ~33ms) and eliminated LLM token generation costs across 4 major agent frameworks and universal tool schemas.
 
 [![PR #229 Merged](https://img.shields.io/badge/PR%20%23229-Merged-8957e5?style=flat-square&logo=github)](https://github.com/NandhaKishorM/laya/pull/229)
 [![PR #257 Merged](https://img.shields.io/badge/PR%20%23257-Merged-8957e5?style=flat-square&logo=github)](https://github.com/NandhaKishorM/laya/pull/257)
 [![PR #533 Merged](https://img.shields.io/badge/PR%20%23533-Merged-8957e5?style=flat-square&logo=github)](https://github.com/NandhaKishorM/laya/pull/533)
 [![PR #535 Merged](https://img.shields.io/badge/PR%20%23535-Merged-8957e5?style=flat-square&logo=github)](https://github.com/NandhaKishorM/laya/pull/535)
+[![PR #737 Merged](https://img.shields.io/badge/PR%20%23737-Merged-8957e5?style=flat-square&logo=github)](https://github.com/NandhaKishorM/laya/pull/737)
+[![PR #1020 Merged](https://img.shields.io/badge/PR%20%231020-Merged-8957e5?style=flat-square&logo=github)](https://github.com/NandhaKishorM/laya/pull/1020)
+[![PR #977 Merged](https://img.shields.io/badge/PR%20%23977-Merged-8957e5?style=flat-square&logo=github)](https://github.com/NandhaKishorM/laya/pull/977)
 
 ---
 
